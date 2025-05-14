@@ -1,0 +1,46 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+.env
+
+# Virtual environment
+venv/
+.env/
+env/
+
+# Tailwind build
+node_modules/
+dist/
+
+# Django stuff
+*.log
+*.pot
+*.pyc
+db.sqlite3
+media/
+staticfiles/
+
+# VS Code
+.vscode/
+
+# Docker
+*.pid
+*.swp
+.dockerignore
+
+# Pytest
+.coverage
+htmlcov/
+
+# OS files
+.DS_Store
+Thumbs.db
